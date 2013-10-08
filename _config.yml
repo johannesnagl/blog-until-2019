@@ -32,6 +32,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Blog
+    url: /articles/
   - title: Kontakt
     url: /kontakt/
   - title: Curriculum Vitae
