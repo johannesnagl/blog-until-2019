@@ -1,27 +1,27 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Johannes Nagl Online
+description:      Perpetual Beta. A Life in Progress.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://johannes.nagl.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Johannes Nagl
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          vornachname@domain.tld
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        jollife
+  facebook:       jollife
+  github:         johannesnagl
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/106232307688683310664
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Vienna
 future:      true
 pygments:    true
 markdown:    kramdown
