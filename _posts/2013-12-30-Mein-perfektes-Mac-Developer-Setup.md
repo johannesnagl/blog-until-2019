@@ -120,6 +120,12 @@ Bevor man die Plugins installieren kann, benötigt man den sehr bekannten Packag
 
 Vor allem sinnvoll bei Laptops, aber meiner Meinung nach auch für Desktops relevant: Das Verschlüsseln der Festplatte! Unter *System Preferences* > *Security & Privacy* > Tab *FileVault* > *Turn on FileVault* klicken und zurücklehnen.
 
+### .DS_Store Files
+Ein wirklich tolles Tool ist Asepsis, welches den Rechner von den nervigen und nicht wichtigen .DS_Store Files frei haltet. Das Tool ist gratis und kann hier heruntergeladen werden: http://asepsis.binaryage.com/.
+
+### Spectacle - Move and resize Windows with the keyboard
+Mit Spectacle (http://spectacleapp.com/) kann man durch Keyboard Shortcuts Fenster nach links, rechts, zentriert bewegen bzw. vergrößern und verkleinern.
+
 ### Fazit
 
 Alles in allem ist das Setup, vor allem durch das Auslagern vieler Dependencies in die Vagrant Machine, sehr kurz gehalten. Das Neuinstallieren meines Computers vor wenigen Tagen hat mich somit nur 1,5h gekostet. Sehr überschaubar, für die vielen Möglichkeiten, die mir das Setup bietet.
