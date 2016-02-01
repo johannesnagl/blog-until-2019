@@ -9,7 +9,7 @@ url:              http://johannes.nagl.name
 # Owner/author information
 owner:
   name:           Johannes Nagl
-  avatar:         http://graph.facebook.com/jollife/picture?width=150&height=150
+  avatar:         https://secure.gravatar.com/avatar/c18d4f21c36997f3c7806dff9002dde3?s=200&r=g
   email:          vorname@nachname.name
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jollife
